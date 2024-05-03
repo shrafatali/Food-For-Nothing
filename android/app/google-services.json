@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "208136240782",
+    "project_id": "foodfornothing-8d103",
+    "storage_bucket": "foodfornothing-8d103.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208136240782:android:d6c628caaa511fa32ad3df",
+        "android_client_info": {
+          "package_name": "com.example.food_for_nothing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208136240782-kmqin5tv056o7hj9eab78kq4k9t068uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCONNSgxAknMe--KbIggnhWocl4wumf7S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208136240782-kmqin5tv056o7hj9eab78kq4k9t068uh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208136240782-f3p77pi05bome0ha3mhljggt94su70lg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodForNothing"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208136240782:android:334e0a8a48716c942ad3df",
+        "android_client_info": {
+          "package_name": "com.example.foodfornothing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208136240782-kmqin5tv056o7hj9eab78kq4k9t068uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCONNSgxAknMe--KbIggnhWocl4wumf7S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208136240782-kmqin5tv056o7hj9eab78kq4k9t068uh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208136240782-f3p77pi05bome0ha3mhljggt94su70lg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodForNothing"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
